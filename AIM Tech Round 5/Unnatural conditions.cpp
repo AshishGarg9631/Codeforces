@@ -1,8 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    //int n,m;
-    //cin>>n>>m;
     int k = 200;
 	for (int i = 0; i < k; ++i)
 		cout << 9;
